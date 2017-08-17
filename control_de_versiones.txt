@@ -1,0 +1,7 @@
+Primero git clone para tener el repositorio elegido
+Hacer cambio y utilizar git add para elegir cuáles de los archivos modificados serán reportados con el commit.
+Git commit para guardar localmente los cambios modificados.
+git push para enviarlo al repositorio
+git pull para actualizar los cambios del repositorio
+
+Esto es un cambio
