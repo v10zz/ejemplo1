@@ -5,3 +5,5 @@ git push para enviarlo al repositorio
 git pull para actualizar los cambios del repositorio
 
 Esto es un cambio
+
+Segundo cambio
